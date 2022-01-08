@@ -1,6 +1,6 @@
-![Banner](./banner.png)
-# LedBuzz #
-<p align="center">Get your class timings alert on your ceiling fan </p>
+## LedBuzz
+<p align="center"><img src="https://github.com/himanshushah05/LedBuzz/blob/main/LedBuzz.png"/></p>
+
 
 ## What it does
 ![What_it_does](./what_it_does)
